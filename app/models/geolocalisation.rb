@@ -1,0 +1,2 @@
+class Geolocalisation < ApplicationRecord
+end
